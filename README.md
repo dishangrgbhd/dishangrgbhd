@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Dishan Gurung Bhandari</h1>
 <h3 align="center">"With great data comes great responsibility." <br>
-                        I'm a Data Analysis and Science Enthusiast.</h3>
+                        I'm a Data Analysis and Data Science Enthusiast.</h3>
 <img align="right" alt="dataanaylysis" width="400" src="https://cdn.dribbble.com/userupload/12058345/file/original-16d59ea5478afe1bf1459563d2b87d70.jpg?resize=1024x1024">
   <br><br>
   <br>
