@@ -6,7 +6,8 @@
   <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishangrgbhd&label=Profile%20views&color=0e75b6&style=flat" alt="dishangrgbhd" /> </p>
 
-- 🔭 I’m currently analyzing and visualizing trends with the power of [PowerBI](https://github.com/dishangrgbhd/PowerBI).
+- 🔭 I’m currently learning python for data analysis and data science.
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
