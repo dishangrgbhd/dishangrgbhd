@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Dishan Bhandari</h1>
 <h3 align="center">
                         I'm a Data Science Enthusiast.</h3>
-<img align="right" alt="datascientist" width="400" src="https://dribbble.com/shots/25841068-Data-Scientist">
+<img align="right" alt="datascientist" width="400" src="https://cdn.dribbble.com/userupload/42718600/file/original-833cff88c97d6a9fb979969c967b4436.png?resize=1024x1536&vertical=center">
   <br><br>
   <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishangrgbhd&label=Profile%20views&color=0e75b6&style=flat" alt="dishangrgbhd" /> </p>
