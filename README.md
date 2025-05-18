@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Dishan Bhandari</h1>
 <h3 align="center">
-                        I'm a Data Science Enthusiast.</h3>
+                        I'm a Computer Engineer with passion for Data Science.</h3>
 <img align="right" alt="datascientist" width="400" src="https://cdn.dribbble.com/userupload/42718600/file/original-833cff88c97d6a9fb979969c967b4436.png?resize=1024x1536&vertical=center">
   <br><br>
   <br>
